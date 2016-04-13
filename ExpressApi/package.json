@@ -1,0 +1,14 @@
+{
+  "name": "ExpressApi",
+  "version": "0.0.0",
+  "description": "ExpressApi",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}

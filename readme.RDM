@@ -1,0 +1,46 @@
+Node.js Tools for Visual Studio
+https://www.visualstudio.com/features/node-js-vs
+
+Node.js
+https://nodejs.org/api/net.html
+
+
+GET/POST --> Test Nodejs server app
+https://packetsender.com/
+
+Chrome apps --> postman
+https://code.visualstudio.com
+
+
+npm package management
+https://www.npmjs.com/package/mssql
+
+
+ejs same as jade
+
+
+Visual Studio Code integrates with existing tool chains. We think the following tools will enhance your development experiences.
+
+ASP.NET Core - a lean and composable framework for building web and cloud applications, fully open source and available on GitHub
+
+Node.js (includes NPM) - a platform for easily building fast, scalable network applications
+
+Git - VS Code has built-in support for source code control using Git
+
+Yeoman - an application scaffolding tool, you can think of this as File > New Project for VS Code
+
+generator-aspnet - a yeoman generator for scaffolding ASP.NET Core applications, run npm install -g generator-aspnet to install
+
+hottowel - a yeoman generator for quickly creating AngularJS applications, run npm install -g generator-hottowel to install
+
+Express - an application framework for Node.js applications, uses the Jade template engine
+
+gulp - a streaming task runner system, integrates with VS Code tasks
+
+mocha - a JavaScript test framework that runs on Node.js
+
+bower - a client side package manager
+
+TypeScript - brings structure and strong typing to your JavaScript code, without compromising the good parts
+
+Typings - TypeScript definition manager to search and download 100's of TypeScript definition files for popular JavaScript frameworks, providing great IntelliSense in VS Code

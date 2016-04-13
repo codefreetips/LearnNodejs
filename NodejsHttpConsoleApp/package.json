@@ -1,0 +1,13 @@
+{
+  "name": "NodejsHttpConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsHttpConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  },
+  "dependencies": {
+    "stringbuilder": "0.0.11"
+  }
+}

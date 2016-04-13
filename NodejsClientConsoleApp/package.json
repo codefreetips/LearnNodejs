@@ -1,0 +1,14 @@
+{
+  "name": "NodejsClientConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsClientConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "readline-sync": "^1.4.1"
+  }
+}

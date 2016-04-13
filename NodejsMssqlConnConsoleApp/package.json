@@ -1,0 +1,13 @@
+{
+  "name": "NodejsMssqlConnConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsMssqlConnConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.1.2"
+  }
+}

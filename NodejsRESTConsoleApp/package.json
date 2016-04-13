@@ -1,0 +1,13 @@
+{
+  "name": "NodejsRESTConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsRESTConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.1.2"
+  }
+}

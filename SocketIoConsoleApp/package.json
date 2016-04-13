@@ -1,0 +1,10 @@
+{
+  "name": "SocketIoConsoleApp",
+  "version": "0.0.0",
+  "description": "SocketIoConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "XingW",
+    "email": ""
+  }
+}
